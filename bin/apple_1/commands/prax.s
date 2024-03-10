@@ -1,0 +1,2 @@
+ldi #$FF
+        ; register
